@@ -7,6 +7,10 @@ ejercicio 2
 Añade el diagrama de secuencia que modela la interacción temporal entre Member, WebInterface, BookingManager y Database cuando se confirma una reserva. Incluye fragmento alt para gestionar disponibilidad.
 ![ejercicio2](7.5Ejercicio2.png)
 
-ejercicio3
+ejercicio 3
 Incorpora el diagrama de comunicación que representa los mismos mensajes del diagrama de secuencia, pero numerados y centrados en los enlaces entre objetos.
 ![ejercicio3](7.5Ejercicio3.png)
+
+ejercicio 4
+Incluye el diagrama de actividades que describe el flujo interno de validación de una reserva: recepción de solicitud, comprobación de cuota, aforo, bloqueo de plaza y envío de email.
+![ejercicio4](7.5Ejercicio4.png)
