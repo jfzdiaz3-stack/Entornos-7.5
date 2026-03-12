@@ -14,3 +14,7 @@ Incorpora el diagrama de comunicación que representa los mismos mensajes del di
 ejercicio 4
 Incluye el diagrama de actividades que describe el flujo interno de validación de una reserva: recepción de solicitud, comprobación de cuota, aforo, bloqueo de plaza y envío de email.
 ![ejercicio4](7.5Ejercicio4.png)
+
+ejercicio 5
+Añade el diagrama de estados del objeto Reservation, mostrando su ciclo de vida completo: Pending, Confirmed, Cancelled, Completed y NoShow, junto con los eventos que disparan las transiciones.
+![ejercicio5](7.5Ejercicio5.png)
